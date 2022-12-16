@@ -1,0 +1,19 @@
+# Python
+*.pyc
+
+# Mac
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+#env
+env/
+
+*.png
+
+*.csv
+
+data/
+
+labdata_valueset/
